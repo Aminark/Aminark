@@ -2,8 +2,6 @@
 
 Full-stack engineer.
 
-Java · TypeScript · Swift
-
 ### Open source
 
 <!-- contributions:start -->
