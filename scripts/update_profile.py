@@ -72,12 +72,16 @@ def fetch_contributions(fetch=request_page):
 
 def render_section(counts, day):
     search_url = "https://github.com/search?" + urlencode({"q": QUERY, "type": "pullrequests"})
-    links = [f"[{LABELS.get(repo, repo)}](https://github.com/{repo})"
-             for repo in sorted(counts, key=lambda repo: (-counts[repo], repo))]
+    rows = ["| Project | Merged PRs |", "| :--- | ---: |"]
+    for repo in sorted(counts, key=lambda repo: (-counts[repo], repo)):
+        pulls_url = f"https://github.com/{repo}/pulls?" + urlencode(
+            {"q": f"is:pr is:merged author:{USER}"})
+        rows.append(f"| [{LABELS.get(repo, repo)}](https://github.com/{repo})"
+                    f" | [{counts[repo]}]({pulls_url}) |")
     return (f"{START}\n"
             f"[**{sum(counts.values())} merged PRs**]({search_url})"
             f" · **{len(counts)} projects**\n\n"
-            + " · ".join(links) + "\n"
+            + "\n".join(rows) + "\n"
             + f"<!-- refreshed: {day} -->\n{END}")
 
 
