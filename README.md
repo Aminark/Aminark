@@ -5,7 +5,7 @@ Full-stack engineer.
 ### Open source
 
 <!-- contributions:start -->
-[**46 merged PRs**](https://github.com/search?q=is%3Apublic+is%3Apr+is%3Amerged+author%3AAminark+-user%3AAminark&type=pullrequests) · **11 projects**
+[**47 merged PRs**](https://github.com/search?q=is%3Apublic+is%3Apr+is%3Amerged+author%3AAminark+-user%3AAminark&type=pullrequests) · **12 projects**
 
 | Project | Merged PRs |
 | :--- | ---: |
@@ -20,5 +20,6 @@ Full-stack engineer.
 | [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) | [1](https://github.com/huggingface/huggingface.js/pulls?q=is%3Apr+is%3Amerged+author%3AAminark) |
 | [jundot/omlx](https://github.com/jundot/omlx) | [1](https://github.com/jundot/omlx/pulls?q=is%3Apr+is%3Amerged+author%3AAminark) |
 | [stefankoegl/python-json-patch](https://github.com/stefankoegl/python-json-patch) | [1](https://github.com/stefankoegl/python-json-patch/pulls?q=is%3Apr+is%3Amerged+author%3AAminark) |
+| [weichsel/ZIPFoundation](https://github.com/weichsel/ZIPFoundation) | [1](https://github.com/weichsel/ZIPFoundation/pulls?q=is%3Apr+is%3Amerged+author%3AAminark) |
 <!-- refreshed: 2026-11-15 -->
 <!-- contributions:end -->
