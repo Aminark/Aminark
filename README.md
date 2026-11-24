@@ -5,11 +5,11 @@ Full-stack engineer.
 ### Open source
 
 <!-- contributions:start -->
-[**72 merged PRs**](https://github.com/search?q=is%3Apublic+is%3Apr+is%3Amerged+author%3AAminark+-user%3AAminark&type=pullrequests) · **13 projects**
+[**77 merged PRs**](https://github.com/search?q=is%3Apublic+is%3Apr+is%3Amerged+author%3AAminark+-user%3AAminark&type=pullrequests) · **13 projects**
 
 | Project | Merged PRs |
 | :--- | ---: |
-| [MyBatis-Plus](https://github.com/baomidou/mybatis-plus) | [27](https://github.com/baomidou/mybatis-plus/pulls?q=is%3Apr+is%3Amerged+author%3AAminark) |
+| [MyBatis-Plus](https://github.com/baomidou/mybatis-plus) | [32](https://github.com/baomidou/mybatis-plus/pulls?q=is%3Apr+is%3Amerged+author%3AAminark) |
 | [ahooks](https://github.com/alibaba/hooks) | [11](https://github.com/alibaba/hooks/pulls?q=is%3Apr+is%3Amerged+author%3AAminark) |
 | [Ant Design](https://github.com/ant-design/ant-design) | [11](https://github.com/ant-design/ant-design/pulls?q=is%3Apr+is%3Amerged+author%3AAminark) |
 | [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) | [6](https://github.com/aerkalov/ebooklib/pulls?q=is%3Apr+is%3Amerged+author%3AAminark) |
@@ -22,5 +22,5 @@ Full-stack engineer.
 | [jundot/omlx](https://github.com/jundot/omlx) | [1](https://github.com/jundot/omlx/pulls?q=is%3Apr+is%3Amerged+author%3AAminark) |
 | [stefankoegl/python-json-patch](https://github.com/stefankoegl/python-json-patch) | [1](https://github.com/stefankoegl/python-json-patch/pulls?q=is%3Apr+is%3Amerged+author%3AAminark) |
 | [weichsel/ZIPFoundation](https://github.com/weichsel/ZIPFoundation) | [1](https://github.com/weichsel/ZIPFoundation/pulls?q=is%3Apr+is%3Amerged+author%3AAminark) |
-<!-- refreshed: 2026-11-23 -->
+<!-- refreshed: 2026-11-24 -->
 <!-- contributions:end -->
